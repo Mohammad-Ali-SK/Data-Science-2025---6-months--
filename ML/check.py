@@ -1,0 +1,3 @@
+print("Hello World")
+print("There are many problem in this question so be carefully when you do some task")
+print("How is your exam is every thing is ok if not then say to me hoe to do my best so I can assume that what is the best way to find out this solution on this problem please not make fun right now I am facing some problem so you can talk to my manager he will clear everything on this problem so  nothing is wrong to much when you wake up you")
